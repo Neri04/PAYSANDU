@@ -27,19 +27,33 @@
 
 # Autores
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
-
+* Gabriel Neri ( 32366851 )
+* Matheus Ramalho ( 32335776 )
+* Caue Lemos ( 32315104 )
+* Igor Bragança ( 42119316 ) 
 
 # Descrição do projeto
 
-*&lt;Introdução do projeto&gt;*
+* O diagrama de caso de uso representa como a Pizza-Express, uma cadeia de 40 lojas de fast-food e entrega em casa, interage com seus clientes e gerencia suas operações de entrega de pizza.
+
+Realizar Pedido de Pizza:
+Neste caso de uso, os clientes iniciam o processo ao fazerem um pedido de pizza. O sistema de software registra o pedido, identifica a loja Pizza-Express mais próxima do cliente e encaminha o pedido para a loja escolhida. Os clientes recebem uma confirmação do pedido.
+
+Processar Pedido na Loja:
+Este caso de uso é acionado quando uma loja de pizza recebe um pedido da central. A loja prepara a pizza de acordo com o pedido, atualiza o status de preparação e entrega a pizza a um entregador.
+
+Entregar Pizza ao Cliente:
+Após a pizza ser preparada na loja, o entregador assume o pedido e entrega a pizza ao cliente. O cliente confirma a entrega.
+
+Desenvolver Software para Atendimento de Pedido e Operações da Fábrica de Pizzas:
+Elonn Muske, o gerente de sistemas de informação, é responsável por desenvolver dois sistemas de software essenciais. O primeiro sistema é para o atendimento de pedidos, que registra os pedidos dos clientes e identifica a loja mais próxima. O segundo sistema é para operações na fábrica de pizzas, auxiliando na preparação eficiente dos pedidos.
+
+Relações entre os Casos de Uso:
+
+O caso de uso "Realizar Pedido de Pizza" depende dos sistemas de software desenvolvidos por Elonn Muske para identificar a loja mais próxima.
+O caso de uso "Processar Pedido na Loja" depende do caso de uso "Realizar Pedido de Pizza", pois a preparação do pedido começa após o pedido do cliente.
+O caso de uso "Entregar Pizza ao Cliente" depende do caso de uso "Processar Pedido na Loja", pois a entrega ocorre após a preparação.
+Em resumo, o diagrama de caso de uso descreve como os clientes fazem pedidos, como as lojas de pizza processam esses pedidos, e como a entrega é realizada. Ele também destaca a importância dos sistemas de software desenvolvidos por Elonn Muske para facilitar essas operações e garantir a eficiência do serviço de entrega da Pizza-Express. *
 
 # Análise de requisitos funcionais e não-funcionais
 *&lt;Descrição dos requisitos&gt;*
