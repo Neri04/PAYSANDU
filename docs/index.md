@@ -78,13 +78,6 @@ Os entregadores devem receber as pizzas da Loja de Pizza.
 A entrega deve ser feita dentro do prazo estabelecido (potencialmente em menos de 30 minutos).
 Os clientes devem confirmar a entrega.
 
-4. Desenvolver Software para Atendimento de Pedido e Operações da Fábrica de Pizzas:
-
-Elonn Muske é responsável pelo desenvolvimento de dois sistemas de software.
-O primeiro sistema deve ser capaz de registrar pedidos de clientes e identificar a loja mais próxima.
-O segundo sistema deve apoiar as operações da fábrica de pizzas, incluindo a preparação de pedidos.
-Relações entre os Casos de Uso:
-
 O sucesso do caso de uso "Realizar Pedido de Pizza" depende dos sistemas de software desenvolvidos por Elonn Muske, pois eles são responsáveis por determinar a localização da loja mais próxima.
 O caso de uso "Processar Pedido na Loja" depende do caso de uso "Realizar Pedido de Pizza", pois a preparação dos pedidos começa após o pedido ser feito pelo cliente.
 O caso de uso "Entregar Pizza ao Cliente" depende do caso de uso "Processar Pedido na Loja", uma vez que a entrega ocorre após a preparação dos pedidos.
