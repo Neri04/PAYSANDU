@@ -34,7 +34,7 @@
 
 # Descrição do projeto
 
-* O diagrama de caso de uso representa como a Pizza-Express, uma cadeia de 40 lojas de fast-food e entrega em casa, interage com seus clientes e gerencia suas operações de entrega de pizza.
+ O diagrama de caso de uso representa como a Pizza-Express, uma cadeia de 40 lojas de fast-food e entrega em casa, interage com seus clientes e gerencia suas operações de entrega de pizza.
 
 Realizar Pedido de Pizza:
 Neste caso de uso, os clientes iniciam o processo ao fazerem um pedido de pizza. O sistema de software registra o pedido, identifica a loja Pizza-Express mais próxima do cliente e encaminha o pedido para a loja escolhida. Os clientes recebem uma confirmação do pedido.
@@ -53,7 +53,7 @@ Relações entre os Casos de Uso:
 O caso de uso "Realizar Pedido de Pizza" depende dos sistemas de software desenvolvidos por Elonn Muske para identificar a loja mais próxima.
 O caso de uso "Processar Pedido na Loja" depende do caso de uso "Realizar Pedido de Pizza", pois a preparação do pedido começa após o pedido do cliente.
 O caso de uso "Entregar Pizza ao Cliente" depende do caso de uso "Processar Pedido na Loja", pois a entrega ocorre após a preparação.
-Em resumo, o diagrama de caso de uso descreve como os clientes fazem pedidos, como as lojas de pizza processam esses pedidos, e como a entrega é realizada. Ele também destaca a importância dos sistemas de software desenvolvidos por Elonn Muske para facilitar essas operações e garantir a eficiência do serviço de entrega da Pizza-Express. *
+Em resumo, o diagrama de caso de uso descreve como os clientes fazem pedidos, como as lojas de pizza processam esses pedidos, e como a entrega é realizada. Ele também destaca a importância dos sistemas de software desenvolvidos por Elonn Muske para facilitar essas operações e garantir a eficiência do serviço de entrega da Pizza-Express. 
 
 # Análise de requisitos funcionais e não-funcionais
 *&lt;Descrição dos requisitos&gt;*
