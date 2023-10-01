@@ -34,26 +34,33 @@
 
 # Descrição do projeto
 
- O diagrama de caso de uso representa como a Pizza-Express, uma cadeia de 40 lojas de fast-food e entrega em casa, interage com seus clientes e gerencia suas operações de entrega de pizza.
+A rede de pizzarias "Pizza-Express" enfrenta desafios significativos em relação à eficiência de suas entregas, que estão prejudicando seus rendimentos em 30% em comparação com sua principal concorrente, que realiza entregas em até 30 minutos após o pedido do cliente. Para abordar esse problema, a empresa está buscando soluções tecnológicas por meio de dois projetos de software distintos:
 
-Realizar Pedido de Pizza:
-Neste caso de uso, os clientes iniciam o processo ao fazerem um pedido de pizza. O sistema de software registra o pedido, identifica a loja Pizza-Express mais próxima do cliente e encaminha o pedido para a loja escolhida. Os clientes recebem uma confirmação do pedido.
+Projeto 1: Sistema de Software para Atendimento de Pedidos e Localização de Lojas
 
-Processar Pedido na Loja:
-Este caso de uso é acionado quando uma loja de pizza recebe um pedido da central. A loja prepara a pizza de acordo com o pedido, atualiza o status de preparação e entrega a pizza a um entregador.
+O primeiro projeto visa melhorar o atendimento ao cliente e a localização das lojas mais próximas. Suas principais características incluem:
 
-Entregar Pizza ao Cliente:
-Após a pizza ser preparada na loja, o entregador assume o pedido e entrega a pizza ao cliente. O cliente confirma a entrega.
+Atendimento de Pedidos: Desenvolver um sistema de software que permita aos clientes fazer pedidos de forma rápida e eficiente, seja por meio de um aplicativo móvel ou site. Isso deve incluir a seleção de itens do menu, opções de personalização e pagamento online.
 
-Desenvolver Software para Atendimento de Pedido e Operações da Fábrica de Pizzas:
-Elonn Muske, o gerente de sistemas de informação, é responsável por desenvolver dois sistemas de software essenciais. O primeiro sistema é para o atendimento de pedidos, que registra os pedidos dos clientes e identifica a loja mais próxima. O segundo sistema é para operações na fábrica de pizzas, auxiliando na preparação eficiente dos pedidos.
+Localização de Lojas: Implementar um mecanismo que identifique automaticamente a loja mais próxima do cliente que fará a entrega. Isso pode ser baseado na localização do cliente ou em algoritmos que calculam a proximidade das lojas.
 
-Relações entre os Casos de Uso:
+Rastreamento de Pedidos: Oferecer aos clientes a capacidade de rastrear o status de seus pedidos em tempo real, incluindo a preparação da pizza e a entrega.
 
-O caso de uso "Realizar Pedido de Pizza" depende dos sistemas de software desenvolvidos por Elonn Muske para identificar a loja mais próxima.
-O caso de uso "Processar Pedido na Loja" depende do caso de uso "Realizar Pedido de Pizza", pois a preparação do pedido começa após o pedido do cliente.
-O caso de uso "Entregar Pizza ao Cliente" depende do caso de uso "Processar Pedido na Loja", pois a entrega ocorre após a preparação.
-Em resumo, o diagrama de caso de uso descreve como os clientes fazem pedidos, como as lojas de pizza processam esses pedidos, e como a entrega é realizada. Ele também destaca a importância dos sistemas de software desenvolvidos por Elonn Muske para facilitar essas operações e garantir a eficiência do serviço de entrega da Pizza-Express. 
+Integração de Mapas: Integração de mapas para orientar os entregadores até o destino do cliente.
+
+Projeto 2: Sistema de Software para Suporte às Operações da Fábrica de Pizzas
+
+O segundo projeto concentra-se nas operações internas da fábrica de pizzas para garantir que as pizzas sejam preparadas e entregues de forma eficiente. Suas principais características incluem:
+
+Gestão de Pedidos Internos: Um sistema para registrar e gerenciar pedidos internos na fábrica, garantindo que todos os detalhes do pedido sejam seguidos com precisão.
+
+Controle de Tempo de Preparação: Implementar um sistema de controle de tempo que garanta que a preparação da pizza seja concluída dentro de um intervalo de tempo de 10 a 15 minutos após o recebimento do pedido.
+
+Roteamento Interno de Entregadores: Se necessário, criar uma solução para rotear entregadores internamente, garantindo que as pizzas sejam entregues de forma eficiente e dentro do prazo.
+
+Integração com Pedidos dos Clientes: Assegurar que o sistema de fábrica de pizzas esteja integrado ao sistema de atendimento de pedidos para uma operação perfeita.
+
+O objetivo final desses projetos é criar um serviço de entrega que seja capaz de realizar a entrega de pizzas em menos de 30 minutos após o pedido, alinhando-se com a concorrente. Essas soluções tecnológicas devem ajudar a Pizza-Express a melhorar sua eficiência operacional, atender às expectativas dos clientes e recuperar seu rendimento perdido
 
 # Análise de requisitos funcionais e não-funcionais
 *1. Realizar Pedido de Pizza:
