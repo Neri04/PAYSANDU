@@ -1,4 +1,4 @@
-<h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
+![image](https://github.com/Neri04/PAYSANDU/assets/124932890/f463b3b7-7ad7-46e0-aaa3-badabe5c14d7)<h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
 <h3><a href= "https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Sistemas de Informação</a></h3>
 
 
@@ -63,36 +63,8 @@ Integração com Pedidos dos Clientes: Assegurar que o sistema de fábrica de pi
 O objetivo final desses projetos é criar um serviço de entrega que seja capaz de realizar a entrega de pizzas em menos de 30 minutos após o pedido, alinhando-se com a concorrente. Essas soluções tecnológicas devem ajudar a Pizza-Express a melhorar sua eficiência operacional, atender às expectativas dos clientes e recuperar seu rendimento perdido
 
 # Análise de requisitos funcionais e não-funcionais
-*1. Realizar Pedido de Pizza:
 
-Os clientes podem fazer pedidos de pizza através deste caso de uso.
-O sistema deve registrar os pedidos dos clientes de forma precisa.
-O sistema deve determinar a localização da loja Pizza-Express mais próxima com base na ordem de serviço.
-O sistema deve encaminhar os pedidos para a loja selecionada.
-Confirmações de pedidos devem ser enviadas aos clientes.
-
-2. Processar Pedido na Loja:
-
-A Loja de Pizza recebe pedidos da Central.
-A preparação de pedidos deve ser eficiente e precisa.
-O status de preparação deve ser comunicado ao sistema.
-As pizzas preparadas devem ser entregues a um entregador.
-
-3. Entregar Pizza ao Cliente:
-
-A entrega das pizzas é realizada pelos entregadores.
-Os entregadores devem receber as pizzas da Loja de Pizza.
-A entrega deve ser feita dentro do prazo estabelecido (potencialmente em menos de 30 minutos).
-Os clientes devem confirmar a entrega.
-
-O sucesso do caso de uso "Realizar Pedido de Pizza" depende dos sistemas de software desenvolvidos por Elonn Muske, pois eles são responsáveis por determinar a localização da loja mais próxima.
-O caso de uso "Processar Pedido na Loja" depende do caso de uso "Realizar Pedido de Pizza", pois a preparação dos pedidos começa após o pedido ser feito pelo cliente.
-O caso de uso "Entregar Pizza ao Cliente" depende do caso de uso "Processar Pedido na Loja", uma vez que a entrega ocorre após a preparação dos pedidos.
-Considerações Adicionais:
-
-Há uma pressão para reduzir o tempo de entrega para menos de 30 minutos, o que requer otimização e eficiência nas operações.
-A Pizza-Express busca se adaptar à concorrência que promove a entrega em 30 minutos.
-A ênfase em desenvolver sistemas de software eficazes indica a importância da tecnologia na operação da Pizza-Express.*
+![image](https://github.com/Neri04/PAYSANDU/assets/124932890/5d0693de-8c1b-4634-84de-6cecec440a93)
 
 # Diagrama de casos de uso
 
