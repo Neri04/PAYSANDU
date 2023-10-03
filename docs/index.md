@@ -64,7 +64,77 @@ O objetivo final desses projetos é criar um serviço de entrega que seja capaz 
 
 # Análise de requisitos funcionais e não-funcionais
 
-![image](https://github.com/Neri04/PAYSANDU/assets/124932890/5d0693de-8c1b-4634-84de-6cecec440a93)
+Documentação da pizzaria
+
+
+Visão geral:
+A Pizzaria será dedicada a fornecer pizzas de alta qualidade com entrega rápida, com o compromisso de entregar a pizza na casa do cliente em menos de 30 minutos a partir do momento em que o pedido é feito. Este documento descreve os processos, políticas e procedimentos que a pizzaria irá seguir para atingir esse objetivo.
+
+
+Missão:
+Nossa missão é proporcionar aos nossos clientes a melhor experiência de pizza com entrega rápida, oferecendo produtos de alta qualidade e serviço excepcional.
+
+
+Objetivo:
+* Entregar todas as pizzas em menos de 30 minutos após o pedido ser feito.
+* Manter a qualidade dos ingredientes e da pizza em todos os pedidos.
+* Fornecer um cardápio variado com opções para todos os gostos.
+* Garantir a satisfação do cliente em todas as interações.
+
+
+Cardápio: 
+* 1- Pizzas tradicionais com diversos sabores.
+* 2- Pizzas especiais com ingredientes exclusivos.
+* 3- Opções vegetarianas e veganas.
+* 4- Opções de tamanhos de pizza: pequena, média, grande e família.
+* 5- Bebidas, sobremesas e acompanhamentos.
+
+
+Processo de pedido:
+
+
+* O  processo inicia com o cliente decidindo o que deseja pedir do nosso cardápio.
+* Após o cliente realizar e pagar o seu pedido, o pedido será enviado automaticamente para a nossa central.
+* A central recebe o pedido e envia para a pizzaria que está localizada o mais próxima possível do cliente
+* Com o pedido sendo recebido pela pizzaria, a produção irá fazer o pedido, onde apenas bastaria colocar as pizzas no forno, já que pretendemos deixar pizzas pré prontas antes de abrirmos para pedidos.
+* Com a pizza finalizada, a produção entrega o pedido para o entregador, que parte para a localização do cliente entregar a sua desejada pizza.
+
+
+Entrega rápida:
+O nosso maior compromisso com o cliente é entregar o seu pedido o mais rápido possível dentro dos 30 minutos
+
+
+* A frota de entregadores está equipada com sistemas de navegação em tempo real para otimizar as rotas.
+* O tempo de preparação da pizza é mantido o mais curto possível, já que deixaremos pizzas pré prontas antes de abrirmos para pedidos
+* O pedido será direcionado para a pizzaria mais próxima do cliente
+* Os entregadores receberão notificações da pizzaria mais próxima a eles, para chegarem na pizzaria o mais rápido possível e partir para a entrega
+
+
+Qualidade dos ingredientes:
+Pode-se desconfiar de deixarmos as nossas pizzas pré prontas, mas garantimos que os ingredientes serão de qualidade, isso incluem:
+
+
+* Massa fresca e feita diariamente.
+* Molhos caseiros preparados com tomates frescos.
+* Queijos de qualidade premium.
+* Ingredientes frescos e legumes selecionados.
+
+
+Atendimento ao cliente:
+A satisfação do cliente é fundamental para nós. Para garantir um excelente atendimento ao cliente:
+
+
+* Nossa equipe de atendimento é treinada para ser cortês e prestativa.
+* O feedback dos clientes é bem-vindo e usado para melhorar nossos serviços.
+* Estamos disponíveis para resolver quaisquer problemas ou preocupações dos clientes.
+
+
+Políticas para qualidade garantida:
+A Pizzaria mantém rigorosos padrões de qualidade, incluindo:
+* Inspeções regulares de nossos ingredientes e fornecedores.
+* Treinamento contínuo para nossa equipe de cozinha e entregadores.
+* Monitoramento constante do tempo de entrega.
+* As pizzas pré prontas ficarão em resfriador para prevenir de que bactérias estraguem o alimento
 
 # Diagrama de casos de uso
 
@@ -72,28 +142,16 @@ O objetivo final desses projetos é criar um serviço de entrega que seja capaz 
 
 # Descrição dos casos de uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+![image](https://github.com/Neri04/PAYSANDU/assets/124932890/5d0693de-8c1b-4634-84de-6cecec440a93)
 
 # Diagrama de sequencia
 
 *&lt;Diagrama de ordem e interação dos objetos&gt;*
 
-# Diagrama de classes
-
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
-
-# Diagrama de Componentes
-
-*&lt;Diagrama para exibir a relação estrutural dos componentes de um sistema de software
-
-# Decisões de arquitetura
-
-*&lt;Descrever a infraestrutura escolhida para arquitetura do projeto&gt;*
-
-# Diagrama de implantação
-
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
-
 # Referências
 
-*&lt;Lista de referências&gt;*
+https://graduacao.mackenzie.br/pluginfile.php/1037193/mod_resource/content/2/SI_2J_IntroducaoEngenhariaSoftware_Apostila05_2.pdf
+
+https://graduacao.mackenzie.br/pluginfile.php/1553039/mod_resource/content/2/SI2_Modelo_DescricaoCasoUso_2023_2.pdf
+
+https://graduacao.mackenzie.br/pluginfile.php/1554983/mod_resource/content/2/Diagrama%20de%20Sequencia.pdf
