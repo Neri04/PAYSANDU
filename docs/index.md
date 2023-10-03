@@ -1,4 +1,4 @@
-![image](https://github.com/Neri04/PAYSANDU/assets/124932890/f463b3b7-7ad7-46e0-aaa3-badabe5c14d7)<h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
+Presbiteriana Mackenzie</a></h2>
 <h3><a href= "https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Sistemas de Informação</a></h3>
 
 
