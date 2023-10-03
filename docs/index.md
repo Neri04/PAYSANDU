@@ -1,4 +1,4 @@
-Presbiteriana Mackenzie</a></h2>
+
 <h3><a href= "https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Sistemas de Informação</a></h3>
 
 
