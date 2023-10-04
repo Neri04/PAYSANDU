@@ -5,11 +5,7 @@
 <font size="+12"><center>
 *&lt;PizzariaExpress;*
 
-
-(4) WhatsApp.pdf](https://github.com/Neri04/PAYSANDU/files/12798065/4.WhatsApp.pdf)
-
-
-
+(https://github.com/Neri04/PAYSANDU/files/12798065/4.WhatsApp.pdf)
 
 **Conteúdo**
 
