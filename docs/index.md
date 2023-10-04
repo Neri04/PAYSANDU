@@ -138,7 +138,8 @@ A Pizzaria mantém rigorosos padrões de qualidade, incluindo:
 
 # Diagrama de casos de uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![image](https://github.com/Neri04/PAYSANDU/assets/124932890/9df8fa8a-4b7b-4375-8217-4f1a765b4d7b)
+
 
 # Descrição dos casos de uso
 
@@ -146,7 +147,7 @@ A Pizzaria mantém rigorosos padrões de qualidade, incluindo:
 
 # Diagrama de sequencia
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![image](https://github.com/Neri04/PAYSANDU/assets/124932890/4b77c08c-1f39-45ec-bba5-e588cd4e5d5f)
 
 # Referências
 
