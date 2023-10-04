@@ -1,10 +1,6 @@
 
 <h3><a href= "https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Sistemas de Informação</a></h3>
 
-
-<font size="+12"><center>
-*&lt;PizzariaExpress;*
-
 (https://github.com/Neri04/PAYSANDU/files/12798065/4.WhatsApp.pdf)
 
 **Conteúdo**
