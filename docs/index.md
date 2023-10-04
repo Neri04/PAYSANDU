@@ -147,7 +147,7 @@ A Pizzaria mantém rigorosos padrões de qualidade, incluindo:
 
 # Diagrama de sequencia
 
-![image](https://github.com/Neri04/PAYSANDU/assets/124932890/4b77c08c-1f39-45ec-bba5-e588cd4e5d5f)
+![dd0751fe-6eaa-4914-b9ad-306de282e168](https://github.com/Neri04/PAYSANDU/assets/124932890/bd11ba52-45d1-4906-926b-641143b6bbd0)
 
 # Referências
 
