@@ -142,6 +142,11 @@ A Pizzaria mantém rigorosos padrões de qualidade, incluindo:
 
 ![dd0751fe-6eaa-4914-b9ad-306de282e168](https://github.com/Neri04/PAYSANDU/assets/124932890/bd11ba52-45d1-4906-926b-641143b6bbd0)
 
+# Diagrama de Classe
+
+![image](https://github.com/Neri04/PAYSANDU/assets/124932890/e7b12b96-ca56-46f5-afa7-3d0f59f8f75c)
+
+
 # Referências
 
 https://graduacao.mackenzie.br/pluginfile.php/1037193/mod_resource/content/2/SI_2J_IntroducaoEngenhariaSoftware_Apostila05_2.pdf
