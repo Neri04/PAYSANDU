@@ -146,6 +146,18 @@ A Pizzaria mantém rigorosos padrões de qualidade, incluindo:
 
 ![image](https://github.com/Neri04/PAYSANDU/assets/124932890/e7b12b96-ca56-46f5-afa7-3d0f59f8f75c)
 
+# Diagrama de Classes e Componentes.
+
+![image](https://github.com/Neri04/PAYSANDU/assets/124932890/515c11f0-2615-46c5-b4cc-b174fc3a9bab)
+
+#  Diagrama de Implantação
+
+![image](https://github.com/Neri04/PAYSANDU/assets/124932890/8bc3fb92-f025-494f-a217-d2f0cebbd9d3)
+
+
+# Decisão da Arquitetura
+
+[decisao_arquitetura.pdf](https://github.com/Neri04/PAYSANDU/files/13482883/decisao_arquitetura.pdf)
 
 # Referências
 
@@ -154,3 +166,4 @@ https://graduacao.mackenzie.br/pluginfile.php/1037193/mod_resource/content/2/SI_
 https://graduacao.mackenzie.br/pluginfile.php/1553039/mod_resource/content/2/SI2_Modelo_DescricaoCasoUso_2023_2.pdf
 
 https://graduacao.mackenzie.br/pluginfile.php/1554983/mod_resource/content/2/Diagrama%20de%20Sequencia.pdf
+
